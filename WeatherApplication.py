@@ -9,9 +9,8 @@ print("|---------------------------------|")
 print("|------ Weather Application ------|")
 print("|---------------------------------|")
 print("Created by:")
-print("-> Pratyush Nirwan A64")
-print("-> Kaustubh Tembhe A74")
-print("-> Rudrav Mahure A59")
+print("-> Pratyush Nirwan ")
+print("-> Kaustubh Tembhe ")
 
 using = True
 
