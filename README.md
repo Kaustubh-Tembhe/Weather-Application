@@ -55,9 +55,10 @@ If you'd like to contribute to this project, feel free to fork the repository, m
 
 This project was created by the following authors as part of a group project:
 
+- Kaustubh Tembhe
 - [Pratyush Nirwan](https://github.com/Pratyush-Nirwan)
-- Kaustubh Tembhe 
-- Rudrav Mahure 
+ 
+
 
 
 
