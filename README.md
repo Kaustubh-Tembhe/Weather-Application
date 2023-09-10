@@ -51,5 +51,13 @@ To use the Weather Application, follow these steps:
 ## Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository, make your changes, and create a pull request. Contributions from the community are highly encouraged!
+## Authors
+
+This project was created by the following authors as part of a group project:
+
+- [Pratyush Nirwan](https://github.com/Pratyush-Nirwan)
+- Kaustubh Tembhe 
+- Rudrav Mahure 
+
 
 
